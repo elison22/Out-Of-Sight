@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>OutOfSight.Game.Clock</StartupObject>
+    <StartupObject>OutOfSight.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
